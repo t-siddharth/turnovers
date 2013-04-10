@@ -1,0 +1,1 @@
+basic flashcard app for learning languages
